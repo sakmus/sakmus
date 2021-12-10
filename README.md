@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[my GitHub repositories page](https://github.com/sakmus?tab=repositories&q=&type=source)**
+- 👨‍💻 All of my projects are available at **[my GitHub repositories page](https://github.com/sakmus?tab=repositories&q=&type=source)** and **[portfolio](https://sakmus.github.io/)**
 
 - 📫 How to reach me **sakeef.mushfique@outlook.com**
 
