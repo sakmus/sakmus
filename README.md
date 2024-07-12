@@ -39,5 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakmus&show_icons=true&locale=en&theme=monokai" alt="sakmus" /></p>
 
-<p><img align="center" src=""https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sakmus&theme=monokai&date_format=j%20M%5B%20Y%5D&mode=weekly" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sakmus&theme=monokai&date_format=j%20M%5B%20Y%5D&mode=weekly"/></p>
 
