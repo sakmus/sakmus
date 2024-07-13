@@ -17,7 +17,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,debian,bash,git,vim,sublime,vscodium,pycharm,notion"/>
+<img src="https://skillicons.dev/icons?i=linux,debian,bash,git,vim,sublime,vscodium,pycharm"/>
 <br>
     <img src="https://skillicons.dev/icons?i=cpp,python,flask,html,css" />
 </p>
