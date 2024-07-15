@@ -23,6 +23,6 @@
 <hr><br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sakmus&show_icons=true&theme=merko" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sakmus&show_icons=true&theme=merko" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sakmus&theme=merko&date_format=M%5B%20Y%5D&mode=weekly"/>
 </p>
