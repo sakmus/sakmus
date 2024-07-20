@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakeef Mushfique</h1>
 <h3 align="center">A curious tech enthusiast from Bangladesh</h3>
 
-- 🎓f I’m currently learning **CS50: Introduction to Computer Science**
+- 🎓 I’m currently learning **CS50: Introduction to Computer Science**
 
 - 📧 How to reach me **sakeef.mushfique@outlook.com**
 
