@@ -3,8 +3,6 @@
 
 - 🎓 I’m currently learning **CS50: Introduction to Computer Science**
 
-- 📧 How to reach me **sakeef.mushfique@outlook.com**
-
 <hr>
 
 <h3 align="center">What I use</h3>
