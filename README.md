@@ -3,7 +3,7 @@
 
 <h3 align="center">What I use</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,flask,git,github,neovim,sublime,pycharm,arch"/>
+<img src="https://skillicons.dev/icons?i=c,python,flask,git,github,neovim,sublime,arch"/>
 </p><br>
 
 <p align="center">
