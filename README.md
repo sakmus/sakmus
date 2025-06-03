@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakeef Mushfique</h1>
 <h3 align="center">A curious tech enthusiast from Bangladesh</h3>
-<h3 align="center">🛠️ I'm currently working on an HTTP server written in C.</h3>
+<h3 align="center">🛠️ I'm currently working on a TCP server-client model written in C.</h3>
 
 <h3 align="center">What I use</h3>
 <p align="center">
