@@ -5,7 +5,7 @@
 <h3 align="center">What I use</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,flask,lua,markdown"/> <br>
-<img src="https://skillicons.dev/icons?i=neovim,sublime,bash,git,github,arch"/>
+<img src="https://skillicons.dev/icons?i=neovim,sublime,bash,git,github,debian"/>
 </p><br>
 
 </p>
